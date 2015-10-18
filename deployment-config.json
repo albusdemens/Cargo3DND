@@ -1,0 +1,9 @@
+{
+    "type": "sftp",
+    "host": "developers.cargocollective.com",
+    "username": "albusdemens",
+    "password": "sMa25rties",
+    "port": 22,
+    "remotePath": "",
+    "uploadOnSave": false
+}
